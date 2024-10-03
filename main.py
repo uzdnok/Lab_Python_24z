@@ -26,5 +26,5 @@ k = int(k)
 montecarlo(n, k)
 
 
-print("Dokładna wartość PI: ")
+print("Dokładna wartość Pi: ")
 print(math.pi)
