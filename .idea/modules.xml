@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/Projekt_Monte_Carlo.iml" filepath="$PROJECT_DIR$/.idea/Projekt_Monte_Carlo.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/webscrapping.iml" filepath="$PROJECT_DIR$/.idea/webscrapping.iml" />
+>>>>>>> 2a09ffb (zadanie webscraping)
     </modules>
   </component>
 </project>
